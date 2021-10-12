@@ -1,4 +1,4 @@
-# Simple shooting game build using PYGAMES 
+# Simple shooting game built using PYGAMES 
 
 
 <img width="746" alt="demoimg1" src="https://user-images.githubusercontent.com/73695378/136906911-c5ee8537-ebe6-4c3d-9735-ac86ccb237bf.png">
